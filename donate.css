@@ -1,26 +1,19 @@
-h1{
-    color:black;
-    
-    text-shadow: red;
-    font-size:3cm;
-    
+.donate{
+    background-image: url(background.jpeg);
+    background-size: cover;
+    text-align: center;
+    font-size: larger;
+    height: 700px;
+
 }
-h2{
-    color:rgb(209, 19, 136);
+.donate span{
+    color: black;
+    font-weight: bolder;
     font-size: 2cm;
-    
-    
 }
 
 h3{
-    color:rgb(209, 19, 136);
-    font-size: 0.5cm;
-}
-.home{
-      text-align:center;
-      height: 500px;
-      background-image: url(background.jpeg);
-      background-size: contain;
+    color:rgb(209, 19, 136); 
 }
 .nav{
     background-color:black;
