@@ -1,6 +1,6 @@
 .donate{
     background-image: url(background.jpeg);
-    background-size: cover;
+    background-repeat: repeat;
     text-align: center;
     font-size: larger;
     height: 700px;
