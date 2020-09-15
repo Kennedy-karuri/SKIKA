@@ -1,0 +1,32 @@
+.nav{
+    background-color:black;
+    color: rgb(209, 19, 136);
+    text-align: center;
+    font-size: large;
+    font-weight:bolder ;
+    flex: inherit;
+    word-spacing:1cm ;
+}
+.nav li{
+    display: inline-flex;
+}
+.nav ul{
+    list-style: none;
+    background-color: white;
+    text-align:center;
+}
+h3{
+    color:rgb(209, 19, 136);
+    font-size: 0.5cm;
+}
+.about{
+    background-image: url(background.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 2000px;
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+}
