@@ -1,0 +1,61 @@
+h1{
+    color:black;
+    
+    text-shadow: red;
+    font-size:3cm;
+    
+}
+h2{
+    color:rgb(209, 19, 136);
+    font-size: 2cm;
+    
+    
+}
+
+h3{
+    color:rgb(209, 19, 136);
+    font-size: 0.5cm;
+}
+.home{
+      text-align:center;
+      height: 500px;
+      background-image: url(background.jpeg);
+      background-size: contain;
+}
+.nav{
+    background-color:black;
+    color: rgb(209, 19, 136);
+    text-align: center;
+    font-size: large;
+    font-weight:bolder ;
+    flex: inherit;
+    word-spacing:1cm ;
+    
+    
+}
+    
+.nav li{
+    display: inline-flex;
+    
+    
+}
+.nav ul{
+    list-style: none;
+    background-color: white;
+    text-align:center;
+    
+    
+}
+.donate{
+    background-image: url(background.jpeg);
+    background-size: contain;
+    text-align: center;
+    font-size: larger;
+    height: 600px;
+
+}
+.donate span{
+    color: black;
+    font-weight: bolder;
+    font-size: 2cm;
+}
