@@ -12,13 +12,10 @@ h2{
     
 }
 
-h3{
-    color:rgb(209, 19, 136);
-    font-size: 0.5cm;
-}
+
 .home{
       text-align:center;
-      height: 500px;
+      height: 100vh;
       background-image: url(background.jpeg);
       background-size: contain;
 }
