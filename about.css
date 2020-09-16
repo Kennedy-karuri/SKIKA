@@ -24,7 +24,7 @@ h2{
 }
 .about{
     background-image: url(background.jpeg);
-    border-image-width: auto;
+    
     background-repeat: repeat;
     height:80vh;
     text-align: center;
