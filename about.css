@@ -23,7 +23,7 @@ h2{
     color:rgb(209, 19, 136); ;
 }
 .about{
-    background-image: url(background.jpeg);
+    background-image: url(images/background.jpeg);
     
     background-repeat: repeat;
     height:100vh;
