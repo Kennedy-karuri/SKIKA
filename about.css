@@ -23,14 +23,39 @@ h2{
     color:rgb(209, 19, 136); ;
 }
 .about{
+<<<<<<< HEAD
     background-image: url(background.jpeg);
     border-image-width: auto;
     background-repeat: repeat;
     height:80vh;
+=======
+    background-image: url(images/background.jpeg);
+    background: size 100vh;;
+>>>>>>> 1da3767ba578007ee0939cb92ee623d947ce2358
     text-align: center;
     
 }
 p{
     text-align: center;
     font-size: xx-large;
+}
+.cards {
+    margin-left: 150px;
+    align-content:center;
+}
+.word p{
+    font-size:18px;
+    color: white;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    display: inline-block;
+    margin-right: 150px;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.card1 {
+    padding-right: 30px;
 }
