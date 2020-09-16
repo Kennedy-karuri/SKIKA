@@ -2,7 +2,7 @@ h1{
     color:black;
     
     text-shadow: red;
-    font-size:3cm;
+    font-size:2cm;
     
 }
 h2{
@@ -16,8 +16,9 @@ h2{
 .home{
       text-align:center;
       height: 100vh;
-      background-image: url(background.jpeg);
-      background-repeat: repeat;
+      background-image:url(images/background.jpeg);
+      background-repeat:repeat;
+      width: 5OOpx;
 }
 .nav{
     background-color:black;
