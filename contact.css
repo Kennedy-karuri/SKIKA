@@ -1,0 +1,39 @@
+.nav{
+    background-color:black;
+    color: rgb(209, 19, 136);
+    text-align: center;
+    font-size: large;
+    font-weight:bolder ;
+    flex: inherit;
+    word-spacing:1cm ;
+    
+    
+}
+    
+.nav li{
+    display: inline-flex;
+    
+    
+}
+.nav ul{
+    list-style: none;
+    background-color: white;
+    text-align:center;
+    
+    
+}
+ .contact{
+     background-image: url(background.jpeg);
+     background-size: cover;
+     text-align: center;
+     font-size: larger;
+     height: 700px;
+ }
+  h3{
+    color:rgb(209, 19, 136); 
+  }
+  h4{
+    color:rgb(209, 19, 136); 
+    padding: 0;
+      
+  }
