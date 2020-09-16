@@ -23,7 +23,7 @@
     
 }
  .contact{
-     background-image: url(background.jpeg);
+     background-image: url(images/background.jpeg);
      background-size: cover;
      text-align: center;
      font-size: larger;
@@ -34,6 +34,7 @@
   }
   h4{
     color:rgb(209, 19, 136); 
+    font-weight: bolder;
     }
     button{
         color: black;
