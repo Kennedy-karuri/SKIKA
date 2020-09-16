@@ -17,8 +17,9 @@ h2{
       text-align:center;
       height: 100vh;
       background-image:url(images/background.jpeg);
-      background-repeat:repeat;
-      width: 5OOpx;
+      background-repeat:no-repeat;
+      background-size: cover;
+      width: 100%;
 }
 .nav{
     background-color:black;
