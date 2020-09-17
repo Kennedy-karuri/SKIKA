@@ -7,19 +7,30 @@
     color:black;
 }
 .word p span{
-    color: rgb(209, 19, 136) ;
+    color:red ;
+    font-weight: bolder;
 }
-.card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    transition: 0.3s;
-    display: inline-block;
-    margin-right: 150px;
+.services1, .services2, .services3{
+    display: flex;
+    
+     
 }
-.card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+.text1, .text3{
+    padding-left: 50px;
+    width: 500px;
+    font-size: xx-large;
 }
-.card1 {
-    padding-right: 30px;
+.text2{
+    width:500px;
+    font-size: xx-large;
+}
+
+.text1 span, .text2 span, .text3 span{
+    color: red;
+}
+
+.image2{
+    padding-left: 50px;
 }
 .nav{
     background-color:black;
@@ -43,11 +54,12 @@
     background-repeat:no-repeat;
     background-size: cover;
     width: 100%;
-    height:100vh;
-    text-align: center;
+    
+    
     
 }
 h2{
     color:rgb(209, 19, 136); 
+    text-align: center;
     
 }

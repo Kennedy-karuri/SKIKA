@@ -14,7 +14,11 @@
 }
 
 h3{
-    color:rgb(209, 19, 136); 
+    color:red; 
+}
+h2{
+    color:rgb(209, 19, 136) ;
+    
 }
 .nav{
     background-color:black;
@@ -41,8 +45,13 @@ h3{
     
 }
 button{
-    color:black;
-    background-color:white;
-    text-decoration-color:black;
+    
+    text-align: center;
+    padding:5px;
+    text-align: center;
+    background-color:white ;
+    border-radius: 8px;
+    border-color: red;
     font-weight: bolder;
-}
+
+    }
